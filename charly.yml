@@ -1,7 +1,5 @@
-version: 2026.232.0520
 cue:
     candy:
-        version: 2026.166.1545
         description: |
             The CUE data-validation/configuration CLI (cue), pinned to v0.16.1 to match
             charly's embedded cuelang.org/go library.
